@@ -1,1 +1,145 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T16:10:48.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="N3QsCi0t21IURKweo6Wv" version="21.0.2" type="github"><diagram name="Página-1" id="YfaSFqgU2aD1eu7WH26F">7Vtbd+MmEP41fmyOJVm+PGadpO3Z7p52nXM2+9RDJCLTSqAgHNv59QUJ3UCOtV7JyNu8ODAChL6Zj5kBMnKW0e5XCuL1J+LDcGSP/d3IuRnZ9mxh818h2EuBO88EAUV+JrJKwQq9QikcS+kG+TCpNWSEhAzFdaFHMIYeq8kApWRbb/ZEwvpbYxBATbDyQKhLvyKfrTPp3J6V8t8gCtb5m63pInsSgbyx/JJkDXyyrYic25GzpISwrBTtljAU2OW4ZP3uDjwtJkYhZm06PMDw0/3Hfz5/+fsx/Lj0v9w529df5CgvINzID/4dIw8ROWW2z3GgZIN9KIayRs6H7RoxuIqBJ55uueK5bM2iUD6Wg0LK4O7gbK0CA247kESQ0T1vIjtMJWr7ujlsSx1YObDrCv55NyDVHhQDl8jwggTnO4ByNKA0iCD2r4XF8ZoXgiRBXh2VEsIxr8EdYg+ifOXK2jfZTpRvdpVmN3tZyV4Jfc1kFVT5tMiGevCY4nX0K/i6DfDmMgpDwNBLfRpNmMs3/EkQn2ChXMuqa9dZKGrLpi97VW1aHchWzMRRBmKABpBpA6UmUHz26VYx0aziHkbpEuWTRHTGAYU+4toRa9idzqo1iR43yVkYNTsAVZVS4wadFxh3zilXQ2+FIg0j/sWsDkbCKPkXLklIKJdggnnLD08oDBURCFGABRsF/lz+QeCH+Np+LR9EyPfFaxrRr9O1AwW4dQUU9YoCpg34qybdGfxTDf7Po6Uzunb01f+n0YGlsmBqWAnzvvyKVfEqpY9p9iscPLp/qFYqvUS17JbWevBHk0H5o/mJ/sieKOalOrae/dHiPFHK+E1ramsVprTtjA+sAT8afbRUNocf7CvNYtEgaT/fRS3O54VswE4NKSfETxPvml1fFENxVHdyqsVpA/W8vlh6vrgkUUwB5UIeNoyfuZhn2SBkQLOXuj30H/Bqi3GDrz9vEmnZGnwryD8ohS/PGdKfDYM4SaOxmxClEuDD5w3gTa5G9hREAi78mMQFVAaBnh4wSnM469n6LfbWUMAM0k/DnNC84AtrTWG2go15i1WAnDRkCGcGUk9wRXzvAQ1JLNj/RAKZQVwNDUvXdU1jqae7BlxqGeqX0f236rP+Q/2cnZmvOmp9xsLEubKsnZoUTBzDTltP9P+nhme3NTzn3fC6MLyZZnh/oKCIFbm3eOucwUyQOAA/8b4lVA8+jtN19k7XLuiq7x7dJjGkRbBXCZTHT5C+iHjaMH0n9tDom7/snb6ztvRdDIq+s67oq56b9Uxfu2lvJs/VhL+NAC/T4ohnjBs5jRkcHKvNJ8K2ngj/KKsPxMNWZww9Sjyz2/CTubp0Xyrx9MT+rw3AvuAYBwgHKGcgg1Es/qbbTh55RRHXWdosBgOLi1UK2sY39ewzpbFvH271T9ujjrU1v51hpbEX61j1NPaIYxU/MPEIpdAnwwuSG6/+nJfLveW4l8Zlt62vHlaOO+mIy23PzDvjsp7jrnjUm3ro59xpM0gjhFN6p55aUpmaP9TQvLJpIufqvIwbJ20I2TZrtY1mra5yvGWfSsipcvXp3DeWHD1rvWu4BHr26+eDI5rdF9EubFspX8GPR79ms9tD162/l6CuYonq7nLf/NSvUtzzLBbSQ9HvwDxkEamYY273W0eXGes6bc/9s6DYmGtVY91TmTtVY93OqMur5f+NZc3Lf75zbv8D</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-07T16:24:59.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ySYx082wG3uYjQjpA7vo" version="21.0.2" type="github">
+  <diagram name="Página-1" id="YfaSFqgU2aD1eu7WH26F">
+    <mxGraphModel dx="792" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XelMTKjNR_blKCdRF3wz-1" value="Inicio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XelMTKjNR_blKCdRF3wz-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="390" as="sourcePoint" />
+            <mxPoint x="120" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-4" value="Tem todos ingredientes?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="130" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-5" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-6" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XelMTKjNR_blKCdRF3wz-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="380" as="sourcePoint" />
+            <mxPoint x="240" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="160" as="sourcePoint" />
+            <mxPoint x="120" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XelMTKjNR_blKCdRF3wz-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="330" as="sourcePoint" />
+            <mxPoint x="120" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-11" value="Comprar o que falta" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-12" value="Separar todos os utensílios adequados.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-13" value="Encher a panela de água" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-14" value="Colocar a panela no fogão." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XelMTKjNR_blKCdRF3wz-13" target="XelMTKjNR_blKCdRF3wz-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="380" as="sourcePoint" />
+            <mxPoint x="430" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XelMTKjNR_blKCdRF3wz-12" target="XelMTKjNR_blKCdRF3wz-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="380" as="sourcePoint" />
+            <mxPoint x="430" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-17" value="Ligar o fogo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XelMTKjNR_blKCdRF3wz-14" target="XelMTKjNR_blKCdRF3wz-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="380" as="sourcePoint" />
+            <mxPoint x="430" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-19" value="Esperar a água ferver" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XelMTKjNR_blKCdRF3wz-17" target="XelMTKjNR_blKCdRF3wz-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="370" as="sourcePoint" />
+            <mxPoint x="430" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-21" value="Colocar o macarrão na água fervente" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="XelMTKjNR_blKCdRF3wz-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="550" as="sourcePoint" />
+            <mxPoint x="430" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-25" value="Quando atingir o tempo de cozimento apagar o fogo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XelMTKjNR_blKCdRF3wz-21" target="XelMTKjNR_blKCdRF3wz-33" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="370" as="sourcePoint" />
+            <mxPoint x="430" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-27" value="Colocar o macarrão no escorredor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XelMTKjNR_blKCdRF3wz-25" target="XelMTKjNR_blKCdRF3wz-27" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="340" as="sourcePoint" />
+            <mxPoint x="430" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-29" value="Servir quando terminar de escorrer." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="XelMTKjNR_blKCdRF3wz-27" target="XelMTKjNR_blKCdRF3wz-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="240" as="sourcePoint" />
+            <mxPoint x="610" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-31" value="Fim" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XelMTKjNR_blKCdRF3wz-29" target="XelMTKjNR_blKCdRF3wz-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="130" as="sourcePoint" />
+            <mxPoint x="520" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-33" value="Temperar o macarrão" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XelMTKjNR_blKCdRF3wz-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XelMTKjNR_blKCdRF3wz-33" target="XelMTKjNR_blKCdRF3wz-25" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="330" as="sourcePoint" />
+            <mxPoint x="630" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
